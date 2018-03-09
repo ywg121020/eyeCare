@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Widget/close.png</file>
+        <file>images/Widget/close_hover.png</file>
+        <file>images/Widget/close_pressed.png</file>
+        <file>images/Widget/min.png</file>
+        <file>images/Widget/min_hover.png</file>
+        <file>images/Widget/min_pressed.png</file>
+        <file>qss/ui.qss</file>
+        <file>main.ico</file>
+        <file>images/esc.ico</file>
+        <file>images/init.ico</file>
+        <file>images/Widget/off_key.png</file>
+        <file>images/Widget/on_key.png</file>
+        <file>images/bkk.png</file>
+    </qresource>
+</RCC>
